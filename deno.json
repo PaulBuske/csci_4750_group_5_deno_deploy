@@ -1,0 +1,10 @@
+{
+  "deploy": {
+    "project": "0f6530a5-99c4-4972-94e5-10221e7e4db0",
+    "exclude": [
+      "**/node_modules"
+    ],
+    "include": [],
+    "entrypoint": "jsr:@deno/nextjs-start/v15"
+  }
+}
