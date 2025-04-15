@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <div>Next.js on Deno</div>
+      <div>CSCI Group 5 Project with Next.js, Deno, React with TypeScript</div>
     </main>
   );
 }
